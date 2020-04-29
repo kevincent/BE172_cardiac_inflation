@@ -1,0 +1,15 @@
+name: pulse
+channels:
+  - defaults
+  - conda-forge
+  - finsberg
+dependencies:
+    - python
+    - h5py
+    - fenics
+    - scipy
+    - matplotlib
+    - jupyter
+    - pulse
+    - mshr
+    - ldrb
