@@ -1,0 +1,9 @@
+TODO: 
+1. Add nested ellipse figure
+1. Add fiber architecture figure
+1. Update notebook with dummy data
+1. Rename variables in more transparent and clear manner
+1. Finalize instructions and text
+1. Spell check
+
+Notes:
