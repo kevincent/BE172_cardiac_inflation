@@ -9,5 +9,5 @@ __pycache__/
 .DS_Store
 
 # Model output files
-.h5
-.png
+*.h5
+*.png
