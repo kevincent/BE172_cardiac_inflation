@@ -1,9 +1,10 @@
 TODO: 
-1. Add nested ellipse figure
-1. Add fiber architecture figure
-1. Update notebook with dummy data
-1. Rename variables in more transparent and clear manner
-1. Finalize instructions and text
-1. Spell check
+1. Troubleshoot stress with Henrik
+2. Add nested ellipse figure
+3. Add fiber architecture figure
+4. Rename variables in more transparent and clear manner
+5. Add an image of pre and post inflation mesh
 
 Notes:
+- Request Datahub access at the beginning of the course.  The Datahub staff are very helpful if there are problems.  Give them at least two weeks to get everything set up.
+- The current stress calculation in the exercise is artificial due to the limited spatial resolution of the mesh and some issues with stress calculations in Pulse.  This is an area ripe for improvement.
