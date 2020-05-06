@@ -9,10 +9,10 @@ def func(x, a, b, c):
     return a * np.exp(-b * x) + c
 
 def normalize(x):
-	return (x-np.min(x))/(np.max(x)-min(x))
+    return (x-np.min(x))/(np.max(x)-min(x))
 
 def fs(x,C,p):
-	return func(normalize(x), 60*C*p, np.pi, 8+C*16)
+    return func(normalize(x), 3*C*p+C, 1.8*np.pi, 1.4*C)
 
 def rs(x,C,p):
-	return func(normalize(x), -p, 3.0, 0)
+    return func(normalize(x), -p, 3.0, 0)
